@@ -1,6 +1,7 @@
 {
  "work": "詞花和歌集",
  "work_id": "kt-shika",
+ "repo": "kumoi-no-fumigura/shika-wakashu",
  "yomi": "しかわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -4953,6 +4954,5 @@
    "text": "世の中の人のこゝるの浮震に空がくれするありあけの月",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shika-wakashu"
+ ]
 }
